@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">amarnath reddy and bhaskar reddy </h1>
-<h1 align="center">satya sai (dist) andhra pradesh
+<h1 align="center">satya sai (dist) andhra pradesh  </h1>
 <h1 align="center"> amar technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
